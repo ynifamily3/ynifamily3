@@ -7,3 +7,5 @@
 - 취직준비
 - TodoApp 만들기
 - 개발 블로그 작성하면서 공부하기 
+  - https://github.com/ynifamily3/SSR-Typescript-React-Styled-components
+    - 밑바탕이 되는 SSR react 보일러플레이트 저장소 

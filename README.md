@@ -4,9 +4,10 @@
 ![깃허브 스탯](https://github-readme-stats.vercel.app/api?username=ynifamily3&show_icons=true)
 
 앞으로 할 일:
-- 취직준비
-- TodoApp 만들기
-  - https://github.com/ynifamily3/todo-app
+- 개발 블로그 제작
+- 댓글 API 기능 추가
+- 댓글 Frontend 작업 
+- TodoApp 제작하기
 - 개발 블로그 작성하면서 공부하기 
   - https://github.com/ynifamily3/SSR-Typescript-React-Styled-components
     - 밑바탕이 되는 SSR react 보일러플레이트 저장소 

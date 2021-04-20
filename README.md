@@ -5,10 +5,7 @@
 
 앞으로 할 일:
 - 개발 블로그 제작
-- 댓글 API 기능 추가
-- 댓글 Auth 서버 분리 (트위터, 네이버, 카카오 로그인 지원)
-- TodoApp 제작하기
-- 개발 블로그 작성하면서 공부하기 
-  - https://blog.roco.moe
-  - https://github.com/ynifamily3/SSR-Typescript-React-Styled-components
-    - 밑바탕이 되는 SSR react 보일러플레이트 저장소 
+- 댓글 API 기능 추가 (삭제 및 수정)
+- 댓글 Auth 서버 코드 리팩토링 (소스코드 정리)
+- 댓글 Front 서버 코드 리팩토링
+- 지뢰찾기 리팩토링

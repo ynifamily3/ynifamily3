@@ -8,3 +8,4 @@
 앞으로 할 일:
 - 개발 블로그 제작
 - 채팅 서버 deploy
+![ticket](https://user-images.githubusercontent.com/13795765/139273703-8492573d-344b-4724-b3f5-d8ba9e78cda6.png)
